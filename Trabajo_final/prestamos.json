@@ -1,0 +1,37 @@
+{
+    "ultimo_id": 4,
+    "prestamos": [
+        {
+            "id_prestamo": "1",
+            "id_socio": "1",
+            "id_libro": "3",
+            "fecha_prestamo": "15-06-2024",
+            "fecha_devolucion": "30-06-2024",
+            "estado_prestamo": "Devuelto"
+        },
+        {
+            "id_prestamo": "2",
+            "id_socio": "1",
+            "id_libro": "2",
+            "fecha_prestamo": "12-03-2024",
+            "fecha_devolucion": "03-04-2024",
+            "estado_prestamo": "Devuelto"
+        },
+        {
+            "id_prestamo": "3",
+            "id_socio": "1",
+            "id_libro": "2",
+            "fecha_prestamo": "30-06-2024",
+            "fecha_devolucion": null,
+            "estado_prestamo": "Prestado"
+        },
+        {
+            "id_prestamo": "4",
+            "id_socio": "2",
+            "id_libro": "2",
+            "fecha_prestamo": "30-06-2024",
+            "fecha_devolucion": null,
+            "estado_prestamo": "Prestado"
+        }
+    ]
+}

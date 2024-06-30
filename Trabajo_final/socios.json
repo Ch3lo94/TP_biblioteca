@@ -1,0 +1,32 @@
+{
+    "ultimo_id": 3,
+    "socios": [
+        {
+            "id": "1",
+            "nombre": "Ana",
+            "apellido": "Mart\u00ednez",
+            "f_nacim": "11-15-1990",
+            "direccion": "Avenida Corrientes 1234",
+            "correo": "ana.martinez@example.com",
+            "telefono": "123-9876"
+        },
+        {
+            "id": "2",
+            "nombre": "Ramon",
+            "apellido": "Schwarzenegger",
+            "f_nacim": "09-12-1994",
+            "direccion": "Uruguay 804",
+            "correo": "ramon_schwarzenegger@example.com",
+            "telefono": "555-356-589"
+        },
+        {
+            "id": "3",
+            "nombre": "Antonio",
+            "apellido": "Robledo",
+            "f_nacim": "05-11-2000",
+            "direccion": "Brasil 555",
+            "correo": "antoniorobledo@example.com",
+            "telefono": "554-2467-1245"
+        }
+    ]
+}

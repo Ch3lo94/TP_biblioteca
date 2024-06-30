@@ -1,0 +1,32 @@
+{
+    "ultimo_id": 3,
+    "libros": [
+        {
+            "id": "1",
+            "titulo": "Cien A\u00f1os de Soledad",
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+            "editorial": "Sudamericana",
+            "anio": "1967",
+            "genero": "Novela",
+            "cantidad_disp": "5"
+        },
+        {
+            "id": "2",
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "editorial": "Francisco de Robles",
+            "anio": "1605",
+            "genero": "Novela",
+            "cantidad_disp": "5"
+        },
+        {
+            "id": "3",
+            "titulo": "La Isla Misteriosa",
+            "autor": "Julio Verne",
+            "editorial": "Hetzel",
+            "anio": "1874",
+            "genero": "Novela",
+            "cantidad_disp": "0"
+        }
+    ]
+}
