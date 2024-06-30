@@ -1,11 +1,3 @@
-# ● ID de Libro (número único y autoincremental)
-# ● Título
-# ● Autor
-# ● Editorial
-# ● Año de Publicación
-# ● Género
-# ● Cantidad Disponible
-
 # Importar json
 import json
 
