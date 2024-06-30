@@ -1,0 +1,21 @@
+{
+    "ultimo_id": 9,
+    "prestamos": [
+        {
+            "id_prestamo": "1",
+            "id_socio": "3",
+            "id_libro": "3",
+            "fecha_prestamo": "2024-06-30",
+            "fecha_devolucion": "2024-06-30",
+            "estado_prestamo": "Devuelto"
+        },
+        {
+            "id_prestamo": "9",
+            "id_socio": "2",
+            "id_libro": "2",
+            "fecha_prestamo": "2024-06-30",
+            "fecha_devolucion": "2024-06-30",
+            "estado_prestamo": "Devuelto"
+        }
+    ]
+}
